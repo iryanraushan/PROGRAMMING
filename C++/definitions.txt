@@ -1,0 +1,12 @@
+The translation we are referring to is made by a specialized computer program called a compiler. 
+The process of translating from a high-level language into a machine language is called compilation.
+
+ the main task is to write a program in accordance with the rules of the chosen programming language.
+ Such a program (which in fact is just text) is called the source code,
+ or simply source, while the file which contains the source is called the source file.
+
+type of structured and semi-formal description of each step of the program is called an algorithm.
+
+A set of preliminary information that the compiler needs is included in header files.
+
+In the C++ language, all elements of the standard C++ infrastructure are declared inside the namespace called std.
